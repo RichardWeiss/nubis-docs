@@ -36,4 +36,4 @@ Once done, for convenience, just put it in your $PATH
 
 ### AWS CLI
 
-It's a nubis-builder dependency, so you'll need it. But it's also handy on its own as an alternative to using the AWS Web Console.
+It's a nubis-builder dependency, so you'll need it. But it's also handy on its own as an alternative to using the AWS Web Console. You can get most of the information you need about the AWS CLI here: (You can ignore the part about signing up for an AWS account.  We'll provide you with the credentials you need to access the Nubis AWS accounts.) http://docs.aws.amazon.com/cli/latest/userguide/cli-chap-getting-set-up.html
